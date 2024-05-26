@@ -1,0 +1,24 @@
+.indexPage {
+  background: #4298B4;
+  height: 80vh;
+  .title {
+    color: #fff;
+    padding-top: 48px;
+    margin-bottom: 24px;
+    text-align: center;
+  }
+
+  .subTitle {
+    color: #fff;
+    margin-bottom: 48px;
+  }
+
+  .enterBtn {
+    // vm 可见宽度 60%
+    width: 60vw;
+    min-width: 90px;
+  }
+  .headerBg {
+    margin-top: 100px;
+  }
+}
