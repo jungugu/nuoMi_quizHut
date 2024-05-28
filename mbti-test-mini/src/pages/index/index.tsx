@@ -1,8 +1,7 @@
 import {Image, View} from '@tarojs/components'
-import "taro-ui/dist/style/components/button.scss" // 按需引入
-import './index.scss'
 import { AtButton } from 'taro-ui'
 import Taro from "@tarojs/taro";
+import './index.scss'
 import headerBg from "../../assets/header-mountains-mobile.svg";
 import GlobalFooter from "../../component/GlobalFooter/GlobalFooter";
 
