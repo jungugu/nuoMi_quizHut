@@ -2,7 +2,7 @@
 # @author nuomi
 spring:
   application:
-    name: springboot-init
+    name: nuomi_quiz_hut_backend
   # 默认 dev 环境
   profiles:
     active: dev
